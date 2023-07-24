@@ -1,0 +1,36 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`renders todos 1`] = `
+<div>
+  <table>
+    <tr>
+      <th>
+        Id
+      </th>
+      <th>
+        UserId
+      </th>
+      <th>
+        Todo
+      </th>
+      <th>
+        Completed
+      </th>
+    </tr>
+    <tr>
+      <td>
+        1
+      </td>
+      <td>
+        26
+      </td>
+      <td>
+        Do something nice for someone 😉
+      </td>
+      <td>
+        Done
+      </td>
+    </tr>
+  </table>
+</div>
+`;

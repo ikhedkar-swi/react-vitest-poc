@@ -1,0 +1,91 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Counter > should show click count as 0 on initial render 1`] = `
+<div>
+  <p
+    id="labelCounter"
+  >
+    You clicked 
+    0
+     times
+  </p>
+  <button
+    id="btnClick"
+    onClick={[Function]}
+  >
+    Click me!
+  </button>
+</div>
+`;
+
+exports[`Counter > should show the incremented counter on button clicks 1`] = `
+<div>
+  <p
+    id="labelCounter"
+  >
+    You clicked 
+    0
+     times
+  </p>
+  <button
+    id="btnClick"
+    onClick={[Function]}
+  >
+    Click me!
+  </button>
+</div>
+`;
+
+exports[`Counter > should show the incremented counter on button clicks 2`] = `
+<div>
+  <p
+    id="labelCounter"
+  >
+    You clicked 
+    1
+     times
+  </p>
+  <button
+    id="btnClick"
+    onClick={[Function]}
+  >
+    Click me!
+  </button>
+</div>
+`;
+
+exports[`Counter > should show the incremented counter on button clicks 3`] = `
+<div>
+  <p
+    id="labelCounter"
+  >
+    You clicked 
+    2
+     times
+  </p>
+  <button
+    id="btnClick"
+    onClick={[Function]}
+  >
+    Click me!
+  </button>
+</div>
+`;
+
+exports[`Counter > should show the incremented counter on button clicks 4`] = `
+<div>
+  <p
+    id="labelCounter"
+  >
+    You clicked 
+    5
+     times
+  </p>
+  <button
+    id="btnClick"
+    onClick={[Function]}
+  >
+    Click me!
+  </button>
+</div>
+`;
